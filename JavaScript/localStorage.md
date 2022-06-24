@@ -9,3 +9,10 @@
 * setItem("key", value) : 정보 저장
 * getItem(key) : vlaue 값 가져오기
 * removeItem(key) : item 삭제 (key:value 삭제)
+<hr>
+
+* localstorage에는 문자열만 저장이 된다.
+* localstorage.stringify()
+* string을 object로 바꿔준다.
+* localstorage.parse()
+* localstotage에 배열로 저장하고 싶을 때 사용.
